@@ -1,5 +1,5 @@
 # Embryo engine
-This repository contains executable versions of Embryo - Gomoku / Renju AI,  Windows and Linux versions
+This repository contains executable versions of Embryo - Gomoku / Renju / Caro AI,  Windows and Linux versions
 
 ## Usage
 Embryo AI can be started under piskvork.exe manager or under Yixin GUI.
